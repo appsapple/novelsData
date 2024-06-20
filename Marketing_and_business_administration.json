@@ -20,7 +20,8 @@
 				  "imageUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.jpg",
 				  "pdfUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.pdf"
            
-              }, {"novelName": "إدارة الوقت",
+              },
+			  {"novelName": "إدارة الوقت",
 			      "pdfUrl": "https://www.dropbox.com/scl/fi/ty1sc6puwd9pa27jae5y6/.pdf?rlkey=eqhut4qbnk3im19zu78bb3yek&raw=1",
                   "imageUrl": "https://www.dropbox.com/scl/fi/yy8q79j00rrclfikinszk/.webp?rlkey=cwo8dvc3s5toq5p2ug5e79jx1&raw=1",
 				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1bKe0lhwwCgN1qkgsy2L6PSApCy6qsBXX&export=download",
@@ -50,8 +51,8 @@
                   "imageUrl": "https://www.dropbox.com/scl/fi/5b537mxtq6egmpgl5o2tj/_.jpg?rlkey=5zc46a255p6vhus6qj13khqv2&raw=1",
 				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1aCfUr-AOgso14roomcadOb3MhAYghc2B&export=download",
                   "imageUrl2": "https://drive.google.com/u/1/uc?id=17D2OqrboKC27Q9idz-i_3iPoU2ESr34T&export=download",
-                   "imageUrl3": "",
-				  "pdfUrl3": ""				  
+                   "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.jpg",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.pdf"				  
               },
 			  {"novelName": "إنجح من أجل نفسك",
 			      "pdfUrl": "https://www.dropbox.com/scl/fi/lkxua2ulbfiwk9uoehm5q/.pdf?rlkey=cz8dcznf7qek04b8vlgol1cdz&raw=1",
@@ -74,8 +75,8 @@
                   "imageUrl": "https://www.dropbox.com/scl/fi/elxb9hdgusl56h7g3dh66/.jpg?rlkey=tvbb7sjtzwqw4s2rscpse8k0e&raw=1",
 				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1yG8TAfimad6cTH2L8MccGlOTWscGNdr-&export=download",
                   "imageUrl2": "https://drive.google.com/u/1/uc?id=1U6ZbdORqcI0EGLEDFDUdKnpD3ot6Rlqu&export=download", 
-                  "imageUrl3": "",
-				  "pdfUrl3": ""				  
+                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A%E2%80%AC.jpg",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A.pdf"				  
               },
               {"novelName": "فن البداية",
 			      "pdfUrl": "https://www.dropbox.com/scl/fi/tv5hi7q5htcsxlgcy2bql/.pdf?rlkey=npadjqm61oug93ssy692w4c68&raw=1",
