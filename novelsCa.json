@@ -9,19 +9,8 @@
           {"category": "كتب شعر","jsonName": "https://appsapple.github.io/novelsData/sha3r.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/5.png"},
           {"category": "الاكثر قراءة","jsonName": "https://appsapple.github.io/novelsData/MostRead.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/6.png"},
           {"category": "رعب","jsonName": "https://appsapple.github.io/novelsData/Ro3b.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/1.png"},
-          {"category": "روايات رومانسية","jsonName": "https://appsapple.github.io/novelsData/romancyyy.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/7.png"},
-
-
-
-
-
-
-
-
-          
-          
-      
-  
+          {"category": "روايات رومانسية","jsonName": "https://appsapple.github.io/novelsData/romancyyy.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/7.png"}
+   
    ]
 
 }
