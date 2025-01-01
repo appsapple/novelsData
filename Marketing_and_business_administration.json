@@ -2,116 +2,122 @@
   "novels_data": [
   
   
-    
-        {"novelName": "٢٥٠ مهارة ذهنية",
-                  "imageUrl": "https://drive.google.com/u/1/uc?id=1_xefEGPUwO5l5ALF3DISue2pQ-o1gVRe&export=download",
-                  "imageUrl2": "https://www.dropbox.com/scl/fi/1sb30v6tbg9ndtgo9jh1b/.png?rlkey=3r313x7ukdbqlxock7xc0humv&raw=1",
-                  "pdfUrl": "https://drive.google.com/u/1/uc?id=1ldW0pQ9f-6jgofMxnYMzcBh-O_Jlfoen&export=download",
-                  "pdfUrl2": "https://www.dropbox.com/scl/fi/yklwd9zwwobjqh2z204ma/.pdf?rlkey=er3qviochd21dnhhj147ujdkx&raw=1",
-				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.png",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.pdf"
-           
-              },
-			  {"novelName": "إدارة الأولويات الأهم أولا",
-                  "imageUrl": "https://drive.google.com/u/1/uc?id=1rhsBulr1npLMgSz7WTtW06rUJ6zwxfJB&export=download",
-                  "imageUrl2": "https://www.dropbox.com/scl/fi/tci6sipfh3gcgttevl65k/.jpg?rlkey=wmtbdu29cr5zitnajywshfj6n&raw=1",
-                  "pdfUrl": "https://drive.google.com/u/1/18hamDv3sqWCqjuYBbWUvKIG71ibfODz1&export=download",
-                  "pdfUrl2": "https://www.dropbox.com/scl/fi/lq762wk9i14uqb80420xv/.pdf?rlkey=vhqldgade0t7ljxz0l5lmhh5a&raw=1",
-				  "imageUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.jpg",
-				  "pdfUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.pdf"
-           
-              },
-			  {"novelName": "إدارة الوقت",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/ty1sc6puwd9pa27jae5y6/.pdf?rlkey=eqhut4qbnk3im19zu78bb3yek&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/yy8q79j00rrclfikinszk/.webp?rlkey=cwo8dvc3s5toq5p2ug5e79jx1&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1bKe0lhwwCgN1qkgsy2L6PSApCy6qsBXX&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=10prwwqXoSLNwmGyKziLiXftwXj_f_nrp&export=download",
-				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D9%82%D8%AA.webp",
-				  "pdfUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D9%82%D8%AA.pdf" 
+    {"novelName": "إدارة الأولويات الأهم أولا",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.jpg",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%87%d9%85-%d8%a3%d9%88%d9%84%d8%a7%d9%8b/",
+				   "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%87%d9%85-%d8%a3%d9%88%d9%84%d8%a7%d9%8b/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%87%D9%85%20%D8%A3%D9%88%D9%84%D8%A7.pdf"
 				  
               },
-			  {"novelName": "ارسم مستقبلك بنفسك",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/jf1oot139ock4cn9a3esc/.pdf?rlkey=fry528r58z0v60me22g9zxbho&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/e79soscdvetbcrdauoe3y/.webp?rlkey=bmdch4zzgmptwy9s2edioh2wr&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1yiKiIV63a9HQG_4aKFtLUpMn_PMkkIeX&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=1O2jgrqFJrsaoxN4H2i1HAuc_UAzjsz3M&export=download",
-				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D8%B1%D8%B3%D9%85%20%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%83%20%D8%A8%D9%86%D9%81%D8%B3%D9%83.webp",
-				  "pdfUrl3": "https://ia600305.us.archive.org/20/items/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D8%B1%D8%B3%D9%85%20%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%83%20%D8%A8%D9%86%D9%81%D8%B3%D9%83.pdf"				  
-              },
-			  {"novelName": "اقهر الإكتئاب",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/i9z1czgqk1b8obj6ljcl2/.pdf?rlkey=lvb0jvduddtvf4vz4hfl5zbbh&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/7q4x45oa4f6vgmx4k8l0v/.webp?rlkey=iroy77s2n2uj8dmjkv9l96dp0&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1dZivlJI94rzKqw0C02hM2Frh4FriAGMP&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=1-bq1455_g73ji1MM8HbJeDk3brHvbKlD&export=download",
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%82%D9%87%D8%B1%20%D8%A7%D9%84%D8%A5%D9%83%D8%AA%D8%A6%D8%A7%D8%A8.webp",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%82%D9%87%D8%B1%20%D8%A7%D9%84%D8%A5%D9%83%D8%AA%D8%A6%D8%A7%D8%A8.pdf"				  
-              },
-			  {"novelName": "الإقناع فن الفوز بما تريد",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/hlov19x1h3hvlwip2fbvg/_.pdf?rlkey=ekcz1ffjerwzbx3qjse0axmh7&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/5b537mxtq6egmpgl5o2tj/_.jpg?rlkey=5zc46a255p6vhus6qj13khqv2&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1aCfUr-AOgso14roomcadOb3MhAYghc2B&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=17D2OqrboKC27Q9idz-i_3iPoU2ESr34T&export=download",
-                   "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.jpg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.pdf"				  
-              },
-			  {"novelName": "إنجح من أجل نفسك",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/lkxua2ulbfiwk9uoehm5q/.pdf?rlkey=cz8dcznf7qek04b8vlgol1cdz&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/93jv2ohzlrfc1lntyruxp/.jpg?rlkey=pk38cac3hkre6cnlygw1oqs3k&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1OZRpcTjfQFLwpiEJjHyCr2h4rQ9mugHf&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=17saDnw91i7uLiA-SZWYXiZ7b5wVMzQ1U&export=download",
-                   "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D9%86%D8%AC%D8%AD%20%D9%85%D9%86%20%D8%A3%D8%AC%D9%84%20%D9%86%D9%81%D8%B3%D9%83.jpg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D9%86%D8%AC%D8%AD%20%D9%85%D9%86%20%D8%A3%D8%AC%D9%84%20%D9%86%D9%81%D8%B3%D9%83.pdf"				  
-              },
-              {"novelName": "جلسات نفسية",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/yijsgsnlyeyeozjflc4yk/.pdf?rlkey=ytmtmfl356mts2qu8epz9fh2d&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/cn5g3t805i25csz1hkilk/.jpg?rlkey=9en2djcbx0p8wgawgsuoa8hw5&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1627mR-MmZcZI6K6Nc3EEW8_qNBEqO1BW&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=1kPRBPmFhjw3ePJ42jjNQpXnaC9UJCftO&export=download",
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.jpg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.pdf"				  
-              },
-              {"novelName": "عقدك النفسية سجنك الأبدي",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/hb3le4r952shgxj85eqrt/.pdf?rlkey=uy9a5auxrzs18p67gyl7g6zzm&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/elxb9hdgusl56h7g3dh66/.jpg?rlkey=tvbb7sjtzwqw4s2rscpse8k0e&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/uc?id=1yG8TAfimad6cTH2L8MccGlOTWscGNdr-&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/uc?id=1U6ZbdORqcI0EGLEDFDUdKnpD3ot6Rlqu&export=download", 
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A%E2%80%AC.jpg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A.pdf"				  
-              },
-              {"novelName": "فن البداية",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/tv5hi7q5htcsxlgcy2bql/.pdf?rlkey=npadjqm61oug93ssy692w4c68&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/tqps9a3c0dbj5nuhuqa03/.jpeg?rlkey=fj4klvt1wfue9qlphcwszpeyl&raw=1",
-				  "pdfUrl2": " https://drive.google.com/u/1/uc?id=1u6zKLOSgjcaZ9rw8O0UN-nldHWGikAnL&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/1MNskWVX3h2BONjb_96ovjJwiTDVwWPny&export=download", 
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D8%AA%D8%A7%D8%A8%20%D9%81%D9%86%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.jpeg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%81%D9%86%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.pdf"				  
-              },
-			  {"novelName": "كيف تبيع أي شيء لأي إنسان",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/kk2bvvrv9w6vqh15dojps/.pdf?rlkey=luw1fwfwe98ozx05au8rzaw17&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/tvl8sm58w5zz8ot3pmfp5/.jpg?rlkey=x71yxu18eyn7s763fhdkmc0je&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/1T0q4_eYoGvZ0OKQvj0CA54Mn8sYA3qYC&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/1on_QuPH3PWK8CVa2UyU5eJodmWdm6aHT&export=download",
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D9%8A%D8%B9%20%D8%A3%D9%8A%20%D8%B4%D9%8A%D8%A1%20%D9%84%D8%A3%D9%8A%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86.jpg",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D9%8A%D8%B9%20%D8%A3%D9%8A%20%D8%B4%D9%8A%D8%A1%20%D9%84%D8%A3%D9%8A%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf"				  
-              },
-			  {"novelName": "من الصفر إلى الواحد",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/70u2o3yrsfdegg31kk6dc/.pdf?rlkey=ob1d1tql3ev0tjl2zv5ihwvg2&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/rha6j42sc5y6rmdj81hov/.webp?rlkey=63xnd5xwwdza8m48kkqpqvs7j&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/1_phaKf-AXWXp1ce9X4Nm_EeZzn9d-u9j&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/1ajvOG3VipyeoxAn1-B68hEihY9QrclwV&export=download", 
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D9%81%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF.webp",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D9%81%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF.pdf"				  
-              },
-			  {"novelName": "ولكم في قصص رواد الأعمال عبرة",
-			      "pdfUrl": "https://www.dropbox.com/scl/fi/tkslu4qn54fn8e0ltf2zk/.pdf?rlkey=1dsp2wkpb6g1zcab6m9rn6e38&raw=1",
-                  "imageUrl": "https://www.dropbox.com/scl/fi/otth24mg54nm8umi5h4uo/.webp?rlkey=gjiqfki2o8xodaevoktu7b90a&raw=1",
-				  "pdfUrl2": "https://drive.google.com/u/1/1l9SiekliWT0muglZGAdtUu_Nh5mLoDS3&export=download",
-                  "imageUrl2": "https://drive.google.com/u/1/1U5hg5RLDU5PRZ5GOuqqph3Qe7yyn36Sw&export=download", 
-                  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%88%D9%84%D9%83%D9%85%20%D9%81%D9%8A%20%D9%82%D8%B5%D8%B5%20%D8%B1%D9%88%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D8%A8%D8%B1%D8%A9.webp",
-				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%88%D9%84%D9%83%D9%85%20%D9%81%D9%8A%20%D9%82%D8%B5%D8%B5%20%D8%B1%D9%88%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D8%A8%D8%B1%D8%A9.pdf"				  
-              }
 			
-         
+			  
+			  {"novelName": "إدارة الوقت",
+                 "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D9%82%D8%AA.webp",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d9%82%d8%aa-%d9%84%d9%80-%d9%84%d9%8a%d8%b3%d8%aa%d8%b1-%d8%a2%d8%b1-%d8%a8%d9%8a%d8%aa%d9%84/",
+                  "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d9%82%d8%aa-%d9%84%d9%80-%d9%84%d9%8a%d8%b3%d8%aa%d8%b1-%d8%a2%d8%b1-%d8%a8%d9%8a%d8%aa%d9%84/",
+                  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D9%82%D8%AA.pdf"
+              },
+			  
+			  {"novelName": "إنجح من أجل نفسك",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D9%86%D8%AC%D8%AD%20%D9%85%D9%86%20%D8%A3%D8%AC%D9%84%20%D9%86%D9%81%D8%B3%D9%83.jpg",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d9%86%d8%ac%d8%ad-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d9%86%d9%81%d8%b3%d9%83/",
+				   "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a5%d9%86%d8%ac%d8%ad-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d9%86%d9%81%d8%b3%d9%83/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A5%D9%86%D8%AC%D8%AD%20%D9%85%D9%86%20%D8%A3%D8%AC%D9%84%20%D9%86%D9%81%D8%B3%D9%83.pdf"
+              },
+			  
+			 {"novelName": "ارسم مستقبلك بنفسك",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D8%B1%D8%B3%D9%85%20%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%83%20%D8%A8%D9%86%D9%81%D8%B3%D9%83.webp",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b1%d8%b3%d9%85-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%83-%d8%a8%d9%86%d9%81%d8%b3%d9%83/",
+                  "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b1%d8%b3%d9%85-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%83-%d8%a8%d9%86%d9%81%d8%b3%d9%83/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D8%B1%D8%B3%D9%85%20%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%83%20%D8%A8%D9%86%D9%81%D8%B3%D9%83.pdf"
+              },
+			  
+			 {"novelName": "اقهر الإكتئاب",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%82%D9%87%D8%B1%20%D8%A7%D9%84%D8%A5%D9%83%D8%AA%D8%A6%D8%A7%D8%A8.webp",
+				 "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%82%d9%87%d8%b1-%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d8%a6%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d9%88%d8%af%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84/",
+				 "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%82%d9%87%d8%b1-%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d8%a6%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d9%88%d8%af%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%82%D9%87%D8%B1%20%D8%A7%D9%84%D8%A5%D9%83%D8%AA%D8%A6%D8%A7%D8%A8.pdf"
+              },
+			  
+			 {"novelName": "الإقناع_ فن الفوز بما تريد",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.jpg",
+				 "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%82%d9%86%d8%a7%d8%b9/",
+                 "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%82%d9%86%d8%a7%d8%b9/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9_%20%D9%81%D9%86%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A8%D9%85%D8%A7%20%D8%AA%D8%B1%D9%8A%D8%AF.pdf"
+              },
+			  
+			 {"novelName": "جلسات نفسية",
+                  "imageUrl": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.jpg",
+                  "imageUrl2": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.jpg",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.jpg",
+				"pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%ac%d9%84%d8%b3%d8%a7%d8%aa-%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d9%84%d9%80-%d9%85%d8%ad%d9%85%d8%af-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85/",
+                "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%ac%d9%84%d8%b3%d8%a7%d8%aa-%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d9%84%d9%80-%d9%85%d8%ad%d9%85%d8%af-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%20%D9%86%D9%81%D8%B3%D9%8A%D8%A9.pdf"
+              },
+			  
+			 {"novelName": "عقدك النفسية سجنك الأبدي",
+                   "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A%E2%80%AC.jpg",
+				 "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b9%d9%82%d8%af%d9%83-%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d8%b3%d8%ac%d9%86%d9%83-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a/",
+                 "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b9%d9%82%d8%af%d9%83-%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d8%a9-%d8%b3%d8%ac%d9%86%d9%83-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B9%D9%82%D8%AF%D9%83%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D8%B3%D8%AC%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%A8%D8%AF%D9%8A.pdf"
+              },
+			  
+			 {"novelName": "فن البداية",
+                   "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D8%AA%D8%A7%D8%A8%20%D9%81%D9%86%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.jpeg",
+				"pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%81%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%ba%d9%84%d8%a8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%88%d9%81/",
+                "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%81%d9%86-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%ba%d9%84%d8%a8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%88%d9%81/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%81%D9%86%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.pdf"
+              },
+			 {"novelName": "كيف تبيع أي شيء لأي إنسان",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D9%8A%D8%B9%20%D8%A3%D9%8A%20%D8%B4%D9%8A%D8%A1%20%D9%84%D8%A3%D9%8A%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86.jpg",
+				 "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%83%d8%aa%d8%a7%d8%a8-%d9%83%d9%8a%d9%81-%d8%aa%d8%a8%d9%8a%d8%b9-%d8%a3%d9%8a-%d8%b4%d9%8a%d8%a1-%d9%84%d8%a3%d9%8a-%d8%a5%d9%86%d8%b3%d8%a7%d9%86/",
+                "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%83%d8%aa%d8%a7%d8%a8-%d9%83%d9%8a%d9%81-%d8%aa%d8%a8%d9%8a%d8%b9-%d8%a3%d9%8a-%d8%b4%d9%8a%d8%a1-%d9%84%d8%a3%d9%8a-%d8%a5%d9%86%d8%b3%d8%a7%d9%86/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%83%D9%8A%D9%81%20%D8%AA%D8%A8%D9%8A%D8%B9%20%D8%A3%D9%8A%20%D8%B4%D9%8A%D8%A1%20%D9%84%D8%A3%D9%8A%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf"
+              },
+			 {"novelName": "من الصفر إلى الواحد",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D9%81%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF.webp",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af/",
+                  "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D9%81%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF.pdf"
+              },
+			 {"novelName": "ولكم في قصص رواد الأعمال عبرة",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%88%D9%84%D9%83%D9%85%20%D9%81%D9%8A%20%D9%82%D8%B5%D8%B5%20%D8%B1%D9%88%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D8%A8%D8%B1%D8%A9.webp",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%88%d9%84%d9%83%d9%85-%d9%81%d9%8a-%d9%82%d8%b5%d8%b5-%d8%b1%d9%88%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%b9%d8%a8%d8%b1%d8%a9/",
+                  "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-%d9%88%d9%84%d9%83%d9%85-%d9%81%d9%8a-%d9%82%d8%b5%d8%b5-%d8%b1%d9%88%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%b9%d8%a8%d8%b1%d8%a9/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%88%D9%84%D9%83%D9%85%20%D9%81%D9%8A%20%D9%82%D8%B5%D8%B5%20%D8%B1%D9%88%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D8%B9%D8%A8%D8%B1%D8%A9.pdf"
+              },
+			 {"novelName": "٢٥٠ مهارة ذهنية",
+                  "imageUrl": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+                  "imageUrl2": "https://archive.org/download/2_20241231_20241231_0451/%D9%8A%D9%85%D9%83%D9%86%D9%83%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%85%D9%84%D8%AE%D8%B5%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%86%20%282%29.gif",
+				  "imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.png",
+				  "pdfUrl": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-250-%d9%85%d9%87%d8%a7%d8%b1%d8%a9-%d8%b0%d9%87%d9%86%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84/",
+                  "pdfUrl2": "https://7akwy.com/%d9%85%d9%84%d8%ae%d8%b5-%d9%83%d8%aa%d8%a7%d8%a8-250-%d9%85%d9%87%d8%a7%d8%b1%d8%a9-%d8%b0%d9%87%d9%86%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84/",
+				  "pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.pdf"
+              }
+			 
+			 
        
          
    ]
